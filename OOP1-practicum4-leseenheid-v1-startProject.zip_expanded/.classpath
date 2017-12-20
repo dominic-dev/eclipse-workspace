@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="LesEenheidApp/src"/>
+	<classpathentry kind="lib" path="LesEenheidApp/dist/LesEenheidApp.jar"/>
+	<classpathentry kind="output" path="LesEenheidApp/build/classes"/>
+</classpath>
