@@ -1,0 +1,202 @@
+src/dit/niet/veranderen/Breuk.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/dit/niet/veranderen/Breuk.java:14:	fieldCommentRequirement Required
+src/dit/niet/veranderen/Breuk.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/dit/niet/veranderen/Breuk.java:15:	fieldCommentRequirement Required
+src/dit/niet/veranderen/Breuk.java:17:	Avoid variables with short names like n
+src/dit/niet/veranderen/Breuk.java:17:	Avoid variables with short names like t
+src/dit/niet/veranderen/Breuk.java:17:	Parameter 'n' is not assigned and could be declared final
+src/dit/niet/veranderen/Breuk.java:17:	Parameter 't' is not assigned and could be declared final
+src/dit/niet/veranderen/Breuk.java:17:	publicMethodCommentRequirement Required
+src/dit/niet/veranderen/Breuk.java:25:	Avoid variables with short names like g
+src/dit/niet/veranderen/Breuk.java:25:	Parameter 'g' is not assigned and could be declared final
+src/dit/niet/veranderen/Breuk.java:25:	publicMethodCommentRequirement Required
+src/dit/niet/veranderen/Breuk.java:27:	Avoid variables with short names like b
+src/dit/niet/veranderen/Breuk.java:27:	Local variable 'b' could be declared final
+src/dit/niet/veranderen/Breuk.java:37:	Avoid variables with short names like g
+src/dit/niet/veranderen/Breuk.java:37:	Parameter 'g' is not assigned and could be declared final
+src/dit/niet/veranderen/Breuk.java:37:	publicMethodCommentRequirement Required
+src/dit/niet/veranderen/Breuk.java:39:	Avoid variables with short names like b
+src/dit/niet/veranderen/Breuk.java:39:	Local variable 'b' could be declared final
+src/dit/niet/veranderen/Breuk.java:49:	Ensure you override both equals() and hashCode()
+src/dit/niet/veranderen/Breuk.java:49:	Parameter 'obj' is not assigned and could be declared final
+src/dit/niet/veranderen/Breuk.java:49:	publicMethodCommentRequirement Required
+src/dit/niet/veranderen/Breuk.java:50:	Avoid variables with short names like r
+src/dit/niet/veranderen/Breuk.java:50:	Found 'DD'-anomaly for variable 'r' (lines '50'-'53').
+src/dit/niet/veranderen/Breuk.java:52:	Avoid variables with short names like b
+src/dit/niet/veranderen/Breuk.java:52:	Local variable 'b' could be declared final
+src/dit/niet/veranderen/Breuk.java:53:	Useless parentheses.
+src/dit/niet/veranderen/Breuk.java:58:	Avoid variables with short names like a
+src/dit/niet/veranderen/Breuk.java:58:	Avoid variables with short names like b
+src/dit/niet/veranderen/Breuk.java:58:	Parameter 'a' is not assigned and could be declared final
+src/dit/niet/veranderen/Breuk.java:58:	Parameter 'b' is not assigned and could be declared final
+src/dit/niet/veranderen/Breuk.java:61:	Avoid variables with short names like d
+src/dit/niet/veranderen/Breuk.java:61:	Local variable 'd' could be declared final
+src/dit/niet/veranderen/Breuk.java:66:	publicMethodCommentRequirement Required
+src/dit/niet/veranderen/Geheel.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/dit/niet/veranderen/Geheel.java:14:	fieldCommentRequirement Required
+src/dit/niet/veranderen/Geheel.java:16:	Avoid variables with short names like n
+src/dit/niet/veranderen/Geheel.java:16:	Parameter 'n' is not assigned and could be declared final
+src/dit/niet/veranderen/Geheel.java:16:	publicMethodCommentRequirement Required
+src/dit/niet/veranderen/Geheel.java:22:	Avoid variables with short names like g
+src/dit/niet/veranderen/Geheel.java:22:	Parameter 'g' is not assigned and could be declared final
+src/dit/niet/veranderen/Geheel.java:22:	publicMethodCommentRequirement Required
+src/dit/niet/veranderen/Geheel.java:31:	Avoid variables with short names like g
+src/dit/niet/veranderen/Geheel.java:31:	Parameter 'g' is not assigned and could be declared final
+src/dit/niet/veranderen/Geheel.java:31:	publicMethodCommentRequirement Required
+src/dit/niet/veranderen/Geheel.java:40:	Ensure you override both equals() and hashCode()
+src/dit/niet/veranderen/Geheel.java:40:	Parameter 'obj' is not assigned and could be declared final
+src/dit/niet/veranderen/Geheel.java:40:	publicMethodCommentRequirement Required
+src/dit/niet/veranderen/Geheel.java:41:	Avoid variables with short names like r
+src/dit/niet/veranderen/Geheel.java:41:	Found 'DD'-anomaly for variable 'r' (lines '41'-'44').
+src/dit/niet/veranderen/Geheel.java:43:	Avoid variables with short names like g
+src/dit/niet/veranderen/Geheel.java:43:	Local variable 'g' could be declared final
+src/dit/niet/veranderen/Geheel.java:44:	Useless parentheses.
+src/dit/niet/veranderen/Geheel.java:50:	publicMethodCommentRequirement Required
+src/dit/niet/veranderen/Geheel.java:51:	Do not add empty strings
+src/dit/niet/veranderen/Getal.java:14:	Abstract classes should be named AbstractXXX
+src/dit/niet/veranderen/Getal.java:14:	Each class should declare at least one constructor
+src/dit/niet/veranderen/Getal.java:16:	Avoid variables with short names like g
+src/dit/niet/veranderen/Getal.java:16:	publicMethodCommentRequirement Required
+src/dit/niet/veranderen/Getal.java:17:	Avoid variables with short names like g
+src/dit/niet/veranderen/Getal.java:17:	publicMethodCommentRequirement Required
+src/dit/niet/veranderen/RekenfoutException.java:14:	publicMethodCommentRequirement Required
+src/dit/niet/veranderen/RekenfoutException.java:18:	Parameter 'msg' is not assigned and could be declared final
+src/dit/niet/veranderen/RekenfoutException.java:18:	publicMethodCommentRequirement Required
+src/oop2/toets/Stap0.java:16:	Avoid unnecessary constructors - the compiler will generate these for you
+src/oop2/toets/Stap0.java:16:	publicMethodCommentRequirement Required
+src/oop2/toets/Stap0.java:20:	Parameter 'args' is not assigned and could be declared final
+src/oop2/toets/Stap0.java:20:	publicMethodCommentRequirement Required
+src/oop2/toets/Stap0.java:21:	Local variable 'opg' could be declared final
+src/oop2/toets/Stap0.java:26:	System.out.println is used
+src/oop2/toets/Stap0.java:29:	Avoid variables with short names like b1
+src/oop2/toets/Stap0.java:29:	Local variable 'b1' could be declared final
+src/oop2/toets/Stap0.java:30:	Avoid variables with short names like b2
+src/oop2/toets/Stap0.java:30:	Local variable 'b2' could be declared final
+src/oop2/toets/Stap0.java:31:	System.out.println is used
+src/oop2/toets/Stap0.java:32:	System.out.println is used
+src/oop2/toets/Stap0.java:35:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/oop2/toets/Stap0.java:36:	System.out.println is used
+src/oop2/toets/Stap0.java:38:	System.out.println is used
+src/oop2/toets/Stap2.java:18:	Avoid unnecessary constructors - the compiler will generate these for you
+src/oop2/toets/Stap2.java:18:	publicMethodCommentRequirement Required
+src/oop2/toets/Stap2.java:22:	Parameter 'args' is not assigned and could be declared final
+src/oop2/toets/Stap2.java:22:	publicMethodCommentRequirement Required
+src/oop2/toets/Stap2.java:23:	Local variable 'opg' could be declared final
+src/oop2/toets/Stap2.java:28:	Avoid variables with short names like b
+src/oop2/toets/Stap2.java:28:	Local variable 'b' could be declared final
+src/oop2/toets/Stap2.java:29:	Avoid variables with short names like g
+src/oop2/toets/Stap2.java:29:	Local variable 'g' could be declared final
+src/oop2/toets/Stap2.java:33:	System.out.println is used
+src/oop2/toets/Stap3.java:25:	Avoid unnecessary constructors - the compiler will generate these for you
+src/oop2/toets/Stap3.java:25:	publicMethodCommentRequirement Required
+src/oop2/toets/Stap3.java:29:	Parameter 'args' is not assigned and could be declared final
+src/oop2/toets/Stap3.java:29:	publicMethodCommentRequirement Required
+src/oop2/toets/Stap3.java:30:	Local variable 'opg' could be declared final
+src/oop2/toets/Stap3.java:34:	Parameter 'filenaam' is not assigned and could be declared final
+src/oop2/toets/Stap3.java:35:	Local variable 'result' could be declared final
+src/oop2/toets/Stap3.java:37:	Local variable 'fis' could be declared final
+src/oop2/toets/Stap3.java:38:	Local variable 'dis' could be declared final
+src/oop2/toets/Stap3.java:43:	Avoid variables with short names like g
+src/oop2/toets/Stap3.java:43:	Local variable 'g' could be declared final
+src/oop2/toets/Stap3.java:50:	Avoid printStackTrace(); use a logger call instead.
+src/oop2/toets/Stap3.java:56:	Avoid printStackTrace(); use a logger call instead.
+src/oop2/toets/Stap3.java:58:	Avoid printStackTrace(); use a logger call instead.
+src/oop2/toets/Stap3.java:63:	Parameter 'getallen' is not assigned and could be declared final
+src/oop2/toets/Stap3.java:64:	Avoid variables with short names like i
+src/oop2/toets/Stap3.java:65:	System.out.print is used
+src/oop2/toets/Stap3.java:67:	System.out.print is used
+src/oop2/toets/Stap4.java:3:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/oop2/toets/Stap4.java:3:	headerCommentRequirement Required
+src/oop2/toets/Stap4.java:5:	Parameter 'args' is not assigned and could be declared final
+src/oop2/toets/Stap4.java:5:	publicMethodCommentRequirement Required
+src/oop2/toets/Stap4.java:6:	Local variable 'aantal' could be declared final
+src/oop2/toets/Stap4.java:8:	System.out.println is used
+src/oop2/toets/Stap4.java:12:	Parameter 'source' is not assigned and could be declared final
+src/oop2/toets/Stap4.java:12:	Parameter 'target' is not assigned and could be declared final
+src/oop2/toets/Stap4.java:12:	publicMethodCommentRequirement Required
+src/oop2/toets/Stap4.java:16:	Avoid variables with short names like n
+src/oop2/toets/Stap4.java:16:	Parameter 'n' is not assigned and could be declared final
+src/oop2/toets/Stap4.java:16:	Parameter 'source' is not assigned and could be declared final
+src/oop2/toets/Stap4.java:16:	Parameter 'target' is not assigned and could be declared final
+src/oop2/toets/Stap4.java:16:	publicMethodCommentRequirement Required
+src/oop2/toets/Stap4.java:18:	A method should have only one exit point, and that should be the last statement in the method
+src/oop2/toets/Stap4.java:18:	Avoid using if statements without curly braces
+src/oop2/toets/Stap5.java:3:	headerCommentRequirement Required
+src/oop2/toets/Stap5.java:4:	Avoid variables with short names like t
+src/oop2/toets/Stap5.java:4:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/oop2/toets/Stap5.java:4:	Private field 't' could be made final; it is only initialized in the declaration or constructor.
+src/oop2/toets/Stap5.java:4:	fieldCommentRequirement Required
+src/oop2/toets/Stap5.java:6:	Avoid variables with short names like t
+src/oop2/toets/Stap5.java:6:	Parameter 't' is not assigned and could be declared final
+src/oop2/toets/Stap5.java:6:	publicMethodCommentRequirement Required
+test/dit/niet/veranderen/BreukTest.java:7:	headerCommentRequirement Required
+test/dit/niet/veranderen/BreukTest.java:9:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+test/dit/niet/veranderen/BreukTest.java:9:	Private field 'breuken' could be made final; it is only initialized in the declaration or constructor.
+test/dit/niet/veranderen/BreukTest.java:9:	fieldCommentRequirement Required
+test/dit/niet/veranderen/BreukTest.java:11:	publicMethodCommentRequirement Required
+test/dit/niet/veranderen/BreukTest.java:38:	Use explicit scoping instead of the default package private level
+test/dit/niet/veranderen/BreukTest.java:39:	To avoid mistakes add a comment at the beginning of the testTelop1 method if you want a default access modifier
+test/dit/niet/veranderen/BreukTest.java:40:	Avoid variables with short names like b1
+test/dit/niet/veranderen/BreukTest.java:40:	Local variable 'b1' could be declared final
+test/dit/niet/veranderen/BreukTest.java:41:	Avoid variables with short names like b2
+test/dit/niet/veranderen/BreukTest.java:41:	Local variable 'b2' could be declared final
+test/dit/niet/veranderen/BreukTest.java:43:	Potential violation of Law of Demeter (object not created locally)
+test/dit/niet/veranderen/BreukTest.java:45:	Avoid printStackTrace(); use a logger call instead.
+test/dit/niet/veranderen/BreukTest.java:47:	Avoid variables with short names like bE
+test/dit/niet/veranderen/BreukTest.java:47:	Local variable 'bE' could be declared final
+test/dit/niet/veranderen/BreukTest.java:48:	Potential violation of Law of Demeter (object not created locally)
+test/dit/niet/veranderen/BreukTest.java:51:	Use explicit scoping instead of the default package private level
+test/dit/niet/veranderen/BreukTest.java:52:	To avoid mistakes add a comment at the beginning of the testTelop2 method if you want a default access modifier
+test/dit/niet/veranderen/BreukTest.java:53:	Avoid variables with short names like b1
+test/dit/niet/veranderen/BreukTest.java:53:	Local variable 'b1' could be declared final
+test/dit/niet/veranderen/BreukTest.java:54:	Avoid variables with short names like b2
+test/dit/niet/veranderen/BreukTest.java:54:	Local variable 'b2' could be declared final
+test/dit/niet/veranderen/BreukTest.java:56:	Potential violation of Law of Demeter (object not created locally)
+test/dit/niet/veranderen/BreukTest.java:58:	Avoid printStackTrace(); use a logger call instead.
+test/dit/niet/veranderen/BreukTest.java:60:	Avoid variables with short names like bE
+test/dit/niet/veranderen/BreukTest.java:60:	Local variable 'bE' could be declared final
+test/dit/niet/veranderen/BreukTest.java:61:	Potential violation of Law of Demeter (object not created locally)
+test/dit/niet/veranderen/BreukTest.java:64:	Use explicit scoping instead of the default package private level
+test/dit/niet/veranderen/BreukTest.java:65:	To avoid mistakes add a comment at the beginning of the testTelop3 method if you want a default access modifier
+test/dit/niet/veranderen/BreukTest.java:66:	Avoid variables with short names like b1
+test/dit/niet/veranderen/BreukTest.java:66:	Local variable 'b1' could be declared final
+test/dit/niet/veranderen/BreukTest.java:67:	Avoid variables with short names like b2
+test/dit/niet/veranderen/BreukTest.java:67:	Local variable 'b2' could be declared final
+test/dit/niet/veranderen/BreukTest.java:69:	Potential violation of Law of Demeter (object not created locally)
+test/dit/niet/veranderen/BreukTest.java:71:	Avoid printStackTrace(); use a logger call instead.
+test/dit/niet/veranderen/BreukTest.java:73:	Avoid variables with short names like bE
+test/dit/niet/veranderen/BreukTest.java:73:	Local variable 'bE' could be declared final
+test/dit/niet/veranderen/BreukTest.java:74:	Potential violation of Law of Demeter (object not created locally)
+test/dit/niet/veranderen/BreukTest.java:77:	Use explicit scoping instead of the default package private level
+test/dit/niet/veranderen/BreukTest.java:78:	To avoid mistakes add a comment at the beginning of the testTelop4 method if you want a default access modifier
+test/dit/niet/veranderen/BreukTest.java:79:	Avoid variables with short names like b1
+test/dit/niet/veranderen/BreukTest.java:79:	Local variable 'b1' could be declared final
+test/dit/niet/veranderen/BreukTest.java:80:	Avoid variables with short names like b2
+test/dit/niet/veranderen/BreukTest.java:80:	Local variable 'b2' could be declared final
+test/dit/niet/veranderen/BreukTest.java:82:	Potential violation of Law of Demeter (object not created locally)
+test/dit/niet/veranderen/BreukTest.java:84:	Avoid printStackTrace(); use a logger call instead.
+test/dit/niet/veranderen/BreukTest.java:86:	Avoid variables with short names like bE
+test/dit/niet/veranderen/BreukTest.java:86:	Local variable 'bE' could be declared final
+test/dit/niet/veranderen/BreukTest.java:87:	Potential violation of Law of Demeter (object not created locally)
+test/dit/niet/veranderen/BreukTest.java:90:	Use explicit scoping instead of the default package private level
+test/dit/niet/veranderen/BreukTest.java:91:	To avoid mistakes add a comment at the beginning of the testTelop5 method if you want a default access modifier
+test/dit/niet/veranderen/BreukTest.java:92:	Avoid variables with short names like b1
+test/dit/niet/veranderen/BreukTest.java:92:	Local variable 'b1' could be declared final
+test/dit/niet/veranderen/BreukTest.java:93:	Avoid variables with short names like b2
+test/dit/niet/veranderen/BreukTest.java:93:	Local variable 'b2' could be declared final
+test/dit/niet/veranderen/BreukTest.java:95:	Potential violation of Law of Demeter (object not created locally)
+test/dit/niet/veranderen/BreukTest.java:97:	Avoid printStackTrace(); use a logger call instead.
+test/dit/niet/veranderen/BreukTest.java:99:	Avoid variables with short names like bE
+test/dit/niet/veranderen/BreukTest.java:99:	Local variable 'bE' could be declared final
+test/dit/niet/veranderen/BreukTest.java:100:	Potential violation of Law of Demeter (object not created locally)
+test/dit/niet/veranderen/BreukTest.java:103:	Use explicit scoping instead of the default package private level
+test/dit/niet/veranderen/BreukTest.java:104:	To avoid mistakes add a comment at the beginning of the testVermenigvuldig method if you want a default access modifier
+test/dit/niet/veranderen/BreukTest.java:105:	Avoid variables with short names like b1
+test/dit/niet/veranderen/BreukTest.java:105:	Local variable 'b1' could be declared final
+test/dit/niet/veranderen/BreukTest.java:106:	Avoid variables with short names like b2
+test/dit/niet/veranderen/BreukTest.java:106:	Local variable 'b2' could be declared final
+test/dit/niet/veranderen/BreukTest.java:108:	Potential violation of Law of Demeter (object not created locally)
+test/dit/niet/veranderen/BreukTest.java:110:	Avoid printStackTrace(); use a logger call instead.
+test/dit/niet/veranderen/BreukTest.java:112:	Avoid variables with short names like bE
+test/dit/niet/veranderen/BreukTest.java:112:	Local variable 'bE' could be declared final
+test/dit/niet/veranderen/BreukTest.java:113:	Potential violation of Law of Demeter (object not created locally)
